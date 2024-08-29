@@ -40,7 +40,7 @@ const Header = () => {
 					>
 						<Avatar>
 							<AvatarImage
-								src="https://placehold.co/40x40"
+								src="https://placehold.co/36x36"
 								alt="User"
 							/>
 							<AvatarFallback>AM</AvatarFallback>
